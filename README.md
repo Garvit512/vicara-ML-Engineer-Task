@@ -55,7 +55,7 @@ For model training run the following command:
 python3 model.py
 ```
 
-For prediction or custom input (follow the input format)
+For prediction on custom input (follow the input format)
 
 ```
 python3 predict.py 2002,2397,1982
